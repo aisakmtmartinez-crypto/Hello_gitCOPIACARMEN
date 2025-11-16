@@ -1,2 +1,2 @@
 
-print("Quiero ver mi commit en detached HEAD")
+print("Quiero ver con diff otra vez como cambia otro archivo")
