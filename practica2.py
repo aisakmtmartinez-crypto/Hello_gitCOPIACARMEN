@@ -1,1 +1,2 @@
-print("Practica dos para seguir probando la actualizacion")
+
+print("Quiero ver mi commit en detached HEAD")
